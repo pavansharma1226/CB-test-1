@@ -1,2 +1,2 @@
-# CB test 1
+# Image Blog
  
